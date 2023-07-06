@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041843443427",
+    "project_id": "superbike-rental-app",
+    "storage_bucket": "superbike-rental-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041843443427:android:468801e0d99e12778597d6",
+        "android_client_info": {
+          "package_name": "com.example.superbikerentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041843443427-0vqkf28jf157vhr3p8vgcofnepubv8gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ua8XDGM8AvcxHaRWKLATepHHfWUP_Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041843443427-0vqkf28jf157vhr3p8vgcofnepubv8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
